@@ -1,0 +1,4 @@
+pytrends==4.9.2
+requests>=2.31.0
+python-slugify>=8.0.4
+PyYAML>=6.0.1

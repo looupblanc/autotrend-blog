@@ -1,0 +1,9 @@
+# Generator configuration
+REGIONS: ["united_states", "united_kingdom", "australia", "canada"]
+ARTICLES_PER_CYCLE: 5
+MIN_WORDS: 900
+FETCH_SOURCES: true
+FETCH_IMAGES: true
+ALLOW_WIKIMEDIA_IMAGES: true
+# Set to true if you want drafts placed under 'draft: true' for manual review
+HUMAN_REVIEW: false
