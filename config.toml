@@ -1,0 +1,15 @@
+baseURL = "/"
+languageCode = "en-us"
+title = "AutoTrend Daily"
+theme = "ananke"
+paginate = 10
+
+[params]
+  show_reading_time = true
+
+[markup.goldmark.renderer]
+  unsafe = true
+
+[module]
+  [[module.imports]]
+    path = "github.com/theNewDynamic/gohugo-theme-ananke"
